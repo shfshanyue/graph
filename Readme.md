@@ -23,6 +23,18 @@
 
 > 原文: [docker get started](https://docs.docker.com/get-started/#containers-and-virtual-machines)
 
+## docker architecture
+
+![docker architecture](https://docs.docker.com/engine/images/architecture.svg)
+
+> 原文: [docker overview](https://docs.docker.com/engine/docker-overview/)
+
+## docker 分层存储
+
+![docker 分层存储](https://docs.docker.com/storage/storagedriver/images/sharing-layers.jpg)
+
+> 原文: [docker: About storage drivers](https://docs.docker.com/storage/storagedriver/)
+
 ## k8s components
 
 ![k8s components](https://d33wubrfki0l68.cloudfront.net/817bfdd83a524fed7342e77a26df18c87266b8f4/3da7c/images/docs/components-of-kubernetes.png)
@@ -42,6 +54,8 @@
 ## traefik architecture
 
 ![traefik](https://docs.traefik.io/assets/img/traefik-architecture.png)
+
+![traefik](https://docs.traefik.io/assets/img/architecture-overview.png)
 
 > 原文: [welcome to traefik](https://docs.traefik.io/)
 
