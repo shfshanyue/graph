@@ -70,3 +70,25 @@
 ![prometheus](https://478h5m1yrfsa3bbe262u7muv-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/prometheus_kubernetes_diagram_overview.png)
 
 > 原文: [Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/)
+
+## CICD workflow
+
+![basic](https://docs.gitlab.com/ee/ci/introduction/img/gitlab_workflow_example_11_9.png)
+
+![advance](https://docs.gitlab.com/ee/ci/introduction/img/gitlab_workflow_example_extended_v12_3.png)
+
+![workflow](https://docs.gitlab.com/ee/topics/autodevops/img/guide_pipeline_stages_v12_3.png)
+
+> 原文: [Introduction to CI/CD with GitLab](https://docs.gitlab.com/ee/ci/introduction/index.html#basic-cicd-workflow)
+
+## libuv model
+
+![libuv architecture](http://docs.libuv.org/en/v1.x/_images/architecture.png)
+
+> 原文: [Design Overview of libuv](http://docs.libuv.org/en/v1.x/design.html#handles-and-requests)
+
+## iptables packet flow
+
+![iptables packet flow](https://github.com/trimstray/iptables-essentials/raw/master/static/img/iptables-packet-flow-ng.png)
+
+> 原文: [Iptables Essentials: Common Firewall Rules and Commands.](https://github.com/trimstray/iptables-essentials)
