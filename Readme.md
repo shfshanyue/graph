@@ -92,3 +92,10 @@
 ![iptables packet flow](https://github.com/trimstray/iptables-essentials/raw/master/static/img/iptables-packet-flow-ng.png)
 
 > 原文: [Iptables Essentials: Common Firewall Rules and Commands.](https://github.com/trimstray/iptables-essentials)
+
+## TCP/UDP client server
+
+![TCP client server](https://www.cs.dartmouth.edu/~campbell/cs60/TCPsockets.jpg)
+![UDP client server](https://www.cs.dartmouth.edu/~campbell/cs60/UDPsockets.jpg)
+
+> 原文: [CS 60 Computer Networks](https://www.cs.dartmouth.edu/~campbell/cs60/socketprogramming.html)
