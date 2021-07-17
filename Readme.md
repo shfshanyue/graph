@@ -93,6 +93,12 @@
 
 > 原文: [Iptables Essentials: Common Firewall Rules and Commands.](https://github.com/trimstray/iptables-essentials)
 
+## HTTP2 Connection/Stream/Message/Frame
+
+![Connection/Stream/Message/Frame](https://developers.google.com/web/fundamentals/performance/http2/images/streams_messages_frames01.svg)
+
+> 原文: [http2 introduction](https://developers.google.com/web/fundamentals/performance/http2)
+
 ## HTTP2 Hpack
 
 ![http2 hpack](https://user-gold-cdn.xitu.io/2018/8/31/1658dc53114a2ab9?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
